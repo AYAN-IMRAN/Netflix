@@ -3,7 +3,7 @@
 Welcome to the **Netflix Clone** project! This is a practice project where I focused on creating a sleek, responsive UI with smooth interactions, mimicking the popular Netflix platform. 🚀
 
 Check out the live project:  
-🌐 [Netflix Clone - Live Demo](https://netflix-six-sepia.vercel.app/)
+🌐 [Netflix Clone - Live Demo](https://netflix-mkynl1gkp-theayanahmeds-projects.vercel.app/)
 
 ---
 
